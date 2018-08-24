@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "prasad",
+      "age":25
+    },
+    {
+      "id": 2,
+      "name": "ravi",
+      "age":26
+    },
+    {
+      "id": 3,
+      "name": "sandeep",
+      "age":27
+    }
+  ],
+  "profile": {
+    "name": "software"
+  }
+}
