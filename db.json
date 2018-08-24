@@ -16,7 +16,8 @@
       "age":27
     }
   ],
-  "profile": {
-    "name": "software"
+  "databaseInfo": {
+    "name": "sample",
+    "linkToHitFromAjax":"http://my-json-server.typicode.com/prasadns2/sample/posts/1"
   }
 }
